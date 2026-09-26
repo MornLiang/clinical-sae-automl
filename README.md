@@ -22,7 +22,7 @@ Below is the detailed organization of the core components:
 │   └── 📂processed
 |        └── .gitkeep
 │      
-├──📂scr
+├──📂src
 │   ├── 📜model.py              
 │   ├── 📜prompt.py     
 │   ├── 📜sae_utils.py
